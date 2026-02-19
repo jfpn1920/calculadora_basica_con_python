@@ -6,10 +6,10 @@ Este proyecto consiste en el desarrollo de una **calculadora básica en consola*
 Permite realizar operaciones fundamentales como **suma, resta, multiplicación y división**, interactuando con el usuario mediante un menú de opciones y validando correctamente los datos ingresados.
 El objetivo principal del proyecto es **reforzar los fundamentos de programación en Python**, aplicando buenas prácticas y una lógica clara.
 #
-## 🧑‍💻 Lenguaje de programación
+### 🧑‍💻 Lenguaje de programación
 - Python
 #
-## 🎯 Objetivos del proyecto
+### 🎯 Objetivos del proyecto
 - Aplicar el uso de variables y operadores aritméticos.
 - Implementar la entrada y salida de datos desde consola.
 - Utilizar estructuras condicionales para la toma de decisiones.
@@ -17,7 +17,7 @@ El objetivo principal del proyecto es **reforzar los fundamentos de programació
 - Evitar errores comunes como la división entre cero.
 - Mostrar resultados de forma limpia y legible.
 #
-## 🧠 Conceptos aplicados
+### 🧠 Temas que se a aplicados
 - Variables  
 - Tipos de datos (`int`, `float`)  
 - Condicionales (`if`, `elif`, `else`)  
@@ -26,7 +26,7 @@ El objetivo principal del proyecto es **reforzar los fundamentos de programació
 - Validaciones lógicas  
 - Programación estructurada  
 #
-## ⚙️ Funcionamiento
+### ⚙️ Funcionamiento
 - El programa muestra un menú con las operaciones disponibles.
 - El usuario selecciona la operación deseada.
 - Se solicitan dos números.
