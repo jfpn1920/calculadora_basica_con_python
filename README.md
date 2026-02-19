@@ -2,12 +2,17 @@
 <img src="imagen_presentacion.png" alt="Presentación" width="205" align="left" style="margin-right:20px; border-radius:5px;">  
 <p style="text-align: justify;">
 
-Este proyecto consiste en el desarrollo de una **calculadora básica en consola** utilizando Python.  
-Permite realizar operaciones fundamentales como **suma, resta, multiplicación y división**, interactuando con el usuario mediante un menú de opciones y validando correctamente los datos ingresados.
-El objetivo principal del proyecto es **reforzar los fundamentos de programación en Python**, aplicando buenas prácticas y una lógica clara.
+Este proyecto consiste en el desarrollo de una **calculadora básica en consola** utilizando Python. Permite realizar operaciones fundamentales como **suma, resta, multiplicación y división**, interactuando con el usuario mediante un menú de opciones y validando correctamente los datos ingresados. El objetivo principal del proyecto es **reforzar los fundamentos de programación en Python**, aplicando buenas prácticas y una lógica clara.
+
+La aplicación está diseñada para ejecutarse directamente desde la consola, ofreciendo una interfaz sencilla y comprensible para cualquier usuario. A través de un menú interactivo, el programa solicita la operación deseada y los valores necesarios para realizar el cálculo. Además, se implementan validaciones que permiten controlar errores comunes, como el ingreso de opciones inválidas o intentos de división entre cero, garantizando un funcionamiento correcto del sistema.
+
+Este proyecto tiene un enfoque principalmente educativo, ya que permite poner en práctica conceptos esenciales del lenguaje Python, como el uso de variables, tipos de datos numéricos, estructuras condicionales y funciones. La estructura del código es clara y ordenada, lo que facilita su lectura, comprensión y futura mejora, sirviendo como base para proyectos más avanzados o ampliaciones del sistema.
+
+
 #
 ### 🧑‍💻 Lenguaje de programación
 - Python
+
 #
 ### 🎯 Objetivos del proyecto
 - Aplicar el uso de variables y operadores aritméticos.
@@ -16,6 +21,7 @@ El objetivo principal del proyecto es **reforzar los fundamentos de programació
 - Validar las opciones ingresadas por el usuario.
 - Evitar errores comunes como la división entre cero.
 - Mostrar resultados de forma limpia y legible.
+
 #
 ### 🧠 Temas que se a aplicados
 - Variables  
@@ -25,6 +31,7 @@ El objetivo principal del proyecto es **reforzar los fundamentos de programació
 - Funciones  
 - Validaciones lógicas  
 - Programación estructurada  
+
 #
 ### ⚙️ Funcionamiento
 - El programa muestra un menú con las operaciones disponibles.
@@ -33,11 +40,13 @@ El objetivo principal del proyecto es **reforzar los fundamentos de programació
 - El sistema realiza el cálculo correspondiente.
 - El resultado se muestra en consola, evitando decimales innecesarios.
 - El programa valida errores como opciones inválidas o la división entre cero.
+
 #
 ### ▶️ Cómo usar el proyecto
 Tienes dos opciones para obtener el código:
 1. **Descargar directamente:**
    Haz clic en el botón verde code y selecciona download zip.
+
 2. **Clonar con git:**
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
