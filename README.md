@@ -6,9 +6,6 @@ Este proyecto consiste en el desarrollo de una **calculadora básica en consola*
 
 La aplicación está diseñada para ejecutarse directamente desde la consola, ofreciendo una interfaz sencilla y comprensible para cualquier usuario. A través de un menú interactivo, el programa solicita la operación deseada y los valores necesarios para realizar el cálculo. Además, se implementan validaciones que permiten controlar errores comunes, como el ingreso de opciones inválidas o intentos de división entre cero, garantizando un funcionamiento correcto del sistema.
 
-Este proyecto tiene un enfoque principalmente educativo, ya que permite poner en práctica conceptos esenciales del lenguaje Python, como el uso de variables, tipos de datos numéricos, estructuras condicionales y funciones. La estructura del código es clara y ordenada, lo que facilita su lectura, comprensión y futura mejora, sirviendo como base para proyectos más avanzados o ampliaciones del sistema.
-
-
 #
 ### 🧑‍💻 Lenguaje de programación
 - Python
